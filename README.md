@@ -34,3 +34,7 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 - [ ] Finish Hong Kong 97
 - [ ] Try to make something on Unity 5.4.0b3
 - [ ] Publish Touhou 91: Angel Island for PS3.
+
+# Other stuff
+
+Please ignore the other files found in this repository, have to store those files somewhere... :P
