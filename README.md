@@ -16,6 +16,9 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 > About customization distributing: (Themes, Coldboots, and other..)\
 > I might just credit them and some times later distribute this shit on my website.
 
+> [!IMPORTANT]
+> <img width="924" height="209" alt="image" src="https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74" />
+
 # Main Games
 
 * [Touhou 95: Mushroom Kingdom](https://acidps3.22web.org/games/th95)
