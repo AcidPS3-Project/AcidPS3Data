@@ -18,6 +18,7 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 
 > [!IMPORTANT]
 > <img width="924" height="209" alt="image" src="https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74" />
+> Recently I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania you really need to have the original game.
 
 # Main Games
 
