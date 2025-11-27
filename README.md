@@ -39,7 +39,7 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 - [ ] Finish Hong Kong 97
 - [ ] Try to make something on Unity 5.4.0b3
 - [ ] Publish Touhou 91: Angel Island for PS3.
-- [*] Publish Larry with a Magic Scarf to JAM!
+- [X] Publish Larry with a Magic Scarf to JAM!
 - [ ] Finish Minesweeper Plus PS3 Port
 - [ ] Finish Larry with a Magic Scarf
 
