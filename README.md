@@ -1,7 +1,7 @@
 # AcidPS3 Store Games & Data
 ![AcidPS3 Store Logo](https://acidps3.22web.org/pics/logo.png)
 
-AcidPS3 Store is considered as a website, where people can download some cool stuff for PlayStation 3 Devices!
+AcidPS3 Store is considered as a service, where people can download some cool stuff for PlayStation 3 Devices!
 
 From Games and DLCs to Customization stuff. If needed to make some other stuff for PS3, please, refer to the issues tab [here](https://github.com/AcidGunner/AcidPS3Data/issues)!
 
@@ -26,24 +26,23 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 * [Touhou 91: Angel Island](https://acidps3.22web.org/games/th91)
 * [Raise the Koishi](https://acidps3.22web.org/games/rtk)
 * [Touhou 06 for PS3](https://acidps3.22web.org/games/th06)
-* [Baldi's Basics PS3 Demake](https://acidps3.22web.org/games/baldi)
+* [Baldi's Basics PS3 Port](https://acidps3.22web.org/games/baldi)
 * [Hong Kong 97](https://acidps3.22web.org/games/hk97)
+* [Larry with a Magic Scarf](https://acidps3.22web.org/games/lwamc)
 
 # Future Goals
 - [ ] Finish Touhou 95: Mushroom Kingdom
 - [ ] Finish Touhou 91: Angel Island
 - [ ] Finish Raise the Koishi
 - [ ] Finish Touhou 06 for PS3
-- [ ] Finish Baldi's Basics PS3 Demake
+- [ ] Finish Baldi's Basics PS3 Port
 - [ ] Finish Hong Kong 97
 - [ ] Try to make something on Unity 5.4.0b3
 - [ ] Publish Touhou 91: Angel Island for PS3.
+- [*] Publish Larry with a Magic Scarf to JAM!
+- [ ] Finish Minesweeper Plus PS3 Port
 - [ ] Finish Larry with a Magic Scarf
 
 # Other stuff
 
 Please ignore the other files found in this repository, have to store those files somewhere... :P
-
-And about Larry with a Magic Scarf:
-
-The game indeed has it's Source code, but game is not FINISHED.
