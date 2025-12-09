@@ -16,10 +16,6 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 > About customization distributing: (Themes, Coldboots, and other..)\
 > I might just credit them and some times later distribute this shit on my website.
 
-> [!IMPORTANT]
-> <img width="924" height="209" alt="image" src="https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74" />
-> Recently I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania you really need to have the original game.
-
 # Main Games
 
 * [Touhou 95: Mushroom Kingdom](https://acidps3.22web.org/games/th95)
@@ -43,6 +39,14 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 - [ ] Finish Minesweeper Plus PS3 Port
 - [ ] Finish Larry with a Magic Scarf
 
+# Licensing
+<img width="924" height="209" alt="image" src="https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74" />
+I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania you really need to have the original game. Tutorial is found in his original github page.
+
 # Other stuff
 
 Please ignore the other files found in this repository, have to store those files somewhere... :P
+
+# Zip games
+
+They are for testing currently, please ignore.
