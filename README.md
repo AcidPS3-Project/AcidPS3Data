@@ -16,6 +16,10 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 > About customization distributing: (Themes, Coldboots, and other..)\
 > I might just credit them and some times later distribute this shit on my website.
 
+# How to submit my game?
+
+It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.
+
 # Main Games
 
 * [Touhou 95: Mushroom Kingdom](https://acidps3.22web.org/games/th95)
