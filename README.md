@@ -16,7 +16,7 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 > About customization distributing: (Themes, Coldboots, and other..)\
 > I might just credit them and some times later distribute this shit on my website.
 
-# How to submit my game?
+# How can I submit my own game?
 
 It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.
 
@@ -50,7 +50,3 @@ I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania y
 # Other stuff
 
 Please ignore the other files found in this repository, have to store those files somewhere... :P
-
-# Zip games
-
-They are for testing currently, please ignore.
