@@ -21,6 +21,7 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.
 
 # Main Games
+
 * [Touhou 95: Mushroom Kingdom](https://acidps3.22web.org/games/th95)
 * [Touhou 91: Angel Island](https://acidps3.22web.org/games/th91)
 * [Raise the Koishi](https://acidps3.22web.org/games/rtk)
@@ -30,7 +31,9 @@ It's very simple! Just go to the issues tab, then add a new issue with "Submit y
 * [Larry with a Magic Scarf](https://acidps3.22web.org/games/lwamc)
 
 # Licensing
+
 <img width="924" height="209" alt="image" src="https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74" />
+
 I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania you really need to have the original game. Tutorial is found in his original github page.
 
 # Other stuff
@@ -40,4 +43,3 @@ Please ignore the other files found in this repository, have to store those file
 # What just happened?
 
 Nothing at all! :)
-
