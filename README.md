@@ -27,8 +27,10 @@ It's very simple! Just go to the issues tab, then add a new issue with "Submit y
 * [Raise the Koishi](https://acidps3.22web.org/games/rtk)
 * [Touhou 06 for PS3](https://acidps3.22web.org/games/th06)
 * [Baldi's Basics PS3 Port](https://acidps3.22web.org/games/baldi)
-* [Hong Kong 97](https://acidps3.22web.org/games/hk97)
+* [Hong Kong 97 (ON HOLD)](https://acidps3.22web.org/games/hk97)
 * [Larry with a Magic Scarf](https://acidps3.22web.org/games/lwamc)
+* [Minesweeper Plus PS3 Port](https://acidps3.22web.org/games/msplus)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/fnfgmcell)
 
 # Licensing
 
