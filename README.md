@@ -16,8 +16,6 @@ From Games and DLCs to Customization stuff. If needed to make some other stuff f
 > About customization distributing: (Themes, Coldboots, and other..)\
 > I might just credit them and some times later distribute this shit on my website.
 
-AcidPS3 Archives is considered as an archived service, where people could download some cool stuff for PlayStation 3 Devices!
-
 # How can I submit my own game?
 
 It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.
@@ -42,3 +40,4 @@ Please ignore the other files found in this repository, have to store those file
 # What just happened?
 
 Nothing at all! :)
+
