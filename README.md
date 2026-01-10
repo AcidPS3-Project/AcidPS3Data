@@ -42,6 +42,3 @@ I got a permission to distribute Fan-made Sonic ports for PS3. For Sonic Mania y
 
 Please ignore the other files found in this repository, have to store those files somewhere... :P
 
-# What just happened?
-
-Nothing at all! :)
