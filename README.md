@@ -22,7 +22,6 @@ It's very simple! Just go to the issues tab, then add a new issue with "Submit y
 
 # Main Games
 
-* [Touhou 95: Mushroom Kingdom](https://acidps3.22web.org/games/th95)
 * [Touhou 91: Angel Island](https://acidps3.22web.org/games/th91)
 * [Raise the Koishi](https://acidps3.22web.org/games/rtk)
 * [Touhou 06 for PS3](https://acidps3.22web.org/games/th06)
