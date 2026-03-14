@@ -21,6 +21,10 @@ We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PS
 
 It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.
 
+## Blacklist
+
+[Please refer here.](BLACKLIST.md)
+
 # Main Games
 
 * [Touhou 91: Angel Island](https://acidps3.22web.org/games/th91)
