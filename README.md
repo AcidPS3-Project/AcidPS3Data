@@ -2,6 +2,10 @@
 
 ![AcidPS3 Store Logo](https://acidps3.22web.org/pics/logo.png)
 
+<a href="https://discord.gg/7XuQDYjyzt">
+	<img src="https://img.shields.io/discord/1459965378124976220?logo=discord&logoColor=white&label=AcidPS3%20Server" />
+</a>
+
 AcidPS3 Store is considered as a service, where people can download some cool stuff for PlayStation 3 (and not only) Devices!\
 From Games and DLCs to Customization stuff. If needed to make some other stuff for PS3, please, refer to the issues tab [here](https://github.com/AcidGunner/AcidPS3Data/issues)!\
 We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PSP, PS4 and PSVita.
@@ -27,13 +31,13 @@ It's very simple! Just go to the issues tab, then add a new issue with "Submit y
 
 # Main Games
 
-* [Touhou 91: Angel Island](https://acidps3.22web.org/games/th91)
-* [Touhou 06 for PS3](https://acidps3.22web.org/games/th06)
-* [Baldi's Basics PS3 Port](https://acidps3.22web.org/games/baldi)
-* [Hong Kong 97 PS3 Port](https://acidps3.22web.org/games/hk97)
-* [Larry with a Magic Scarf](https://acidps3.22web.org/games/lwamc)
-* [Minesweeper Plus PS3 Port](https://acidps3.22web.org/games/msplus)
-* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/fnfgmcell)
+* [Touhou 91: Angel Island](https://acidps3.22web.org/games/ps3/th91)
+* [Touhou 06 for PS3](https://acidps3.22web.org/games/ps3/th06)
+* [Baldi's Basics PS3 Port](https://acidps3.22web.org/games/ps3/baldi)
+* [Hong Kong 97 PS3 Port](https://acidps3.22web.org/games/ps3/hk97)
+* [Larry with a Magic Scarf](https://acidps3.22web.org/games/ps3/lwamc)
+* [Minesweeper Plus PS3 Port](https://acidps3.22web.org/games/ps3/msplus)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell)
 
 # Licensing
 
@@ -45,10 +49,16 @@ The only game I own here is Larry with a Magic Scarf (as for now).
 
 # Coming soon
 
-* "Raise the Koishi" remake with a different name
+* "Raise the Koishi: Re-Coded"
 * Five Nights at Freddy's: PS3 Port
 * Something more, that I cannot announce yet.
+* That one SMB1 x BBCR fangame
+* Orange Roulette: PS3 Port
 
 # Legal notices
 
 AcidPS3 service was, is and always will be free no matter what. We will NEVER get any financial profit from this.
+
+<a href="https://github.com/AcidGunner/AcidPS3Data">
+	<img src="https://img.shields.io/badge/Powered%20By-AcidPS3%20Store-blue?logo=playstation3" />
+</a>
