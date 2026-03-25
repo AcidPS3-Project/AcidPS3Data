@@ -43,9 +43,9 @@ Also I do NOT own any game I make a port of. Every original game is by their res
 # Coming soon
 
 * Raise the Koishi: Re-Coded
-* Five Nights at Freddy's: PS3 Port
+* Five Nights at Freddy's: PS3 Edition
 * That one SMB1 x BBCR fangame
-* Orange Roulette: PS3 Port
+* Orange Roulette: PS3 Edition
 * Something more, that I cannot announce yet.
 
 # Legal notices
