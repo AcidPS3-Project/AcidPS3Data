@@ -30,14 +30,14 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [Touhou 06](https://acidps3.22web.org/games/ps3/th06)
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
 * [Hong Kong 97](https://acidps3.22web.org/games/ps3/hk97)
-* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Alternative link)](https://github.com/AcidGunner/MinesweeperPlusPS3)
-* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Alternative link)](https://github.com/AcidGunner/FNFPS3Engine.gmx)
+* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidGunner/MinesweeperPlusPS3)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidGunner/FNFPS3Engine.gmx)
 
 # Games by community
 
 ## PS3
-* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Alternative link)](https://github.com/DropSonic0/TeamForever-v4-1.3)
-* [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Alternative link)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
+* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Source Code)](https://github.com/DropSonic0/TeamForever-v4-1.3)
+* [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Source Code)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 
 # Licensing
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
