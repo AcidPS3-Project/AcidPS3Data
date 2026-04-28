@@ -21,7 +21,7 @@ We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PS
 > I might just credit them and some times later distribute this stuff on my website.
 
 # How can I submit my own game?
-It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.\
+It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template with any of your desired console target, and fill up your issue. We will check anytime soon.\
 But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconveniences! ^_^
 
 # Self-made games

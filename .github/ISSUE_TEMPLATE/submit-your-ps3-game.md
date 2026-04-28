@@ -1,7 +1,7 @@
 ---
-name: Submit your game
+name: Submit your PS3 game
 about: Submit your game for PS3 systems
-title: "[GAME_REQUEST] TITLE_ID, GAME_NAME"
+title: "[GAME_REQUEST] [PS3] TITLE_ID, GAME_NAME"
 labels: game-request
 assignees: AcidGunner
 
