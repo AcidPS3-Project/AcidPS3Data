@@ -1,5 +1,4 @@
 # AcidPS3 Store Games & Data
-
 ![AcidPS3 Store Logo](https://acidps3.22web.org/pics/logo.png)
 
 <a href="https://discord.gg/7XuQDYjyzt">
@@ -22,34 +21,39 @@ We kinda focus on PS3 stuff mainly, but if we can, we might do some stuff for PS
 > I might just credit them and some times later distribute this stuff on my website.
 
 # How can I submit my own game?
-
 It's very simple! Just go to the issues tab, then add a new issue with "Submit your game" template, and fill up your issue. We will check anytime soon.\
 But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconveniences! ^_^
 
-# Main Games (PS3)
+# Self-made games
 
+## PS3
 * [Touhou 06](https://acidps3.22web.org/games/ps3/th06)
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
 * [Hong Kong 97](https://acidps3.22web.org/games/ps3/hk97)
-* [Minesweeper Plus](https://github.com/AcidGunner/MinesweeperPlusPS3)
-* [Friday Night Funkin: GMCell Engine](https://github.com/AcidGunner/FNFPS3Engine.gmx)
+* [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Alternative link)](https://github.com/AcidGunner/MinesweeperPlusPS3)
+* [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Alternative link)](https://github.com/AcidGunner/FNFPS3Engine.gmx)
+
+# Games by community
+
+## PS3
+* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Alternative link)](https://github.com/DropSonic0/TeamForever-v4-1.3)
+* [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Alternative link)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 
 # Licensing
-
-Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74).\
-For Sonic Mania you really need to have the original game. Tutorial is found in his original github page.\
-Also I do NOT own any game I make a port of. Every original game is by their respective owners.
+Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
+For Sonic Mania you really need to have the original game, as it is a decompilation of Sonic Mania. Tutorial may be found [here](https://github.com/DropSonic0/Sonic-Mania-Decompilation#support-the-official-release-of-sonic-mania-plus).\
+Also I do NOT own any game I make a port/edition of. Every original game is by their respective owners.
 
 # Coming soon
-
-* Raise the Koishi: Re-Coded
+* Raise the Koishi: Re-Coded (Announced)
 * Five Nights at Freddy's: PS3 Edition
-* That one SMB1 x BBCR fangame
+* Ultimate Cross Adventure (Announced)
 * Orange Roulette: PS3 Edition
+* ProgressBar 95: PS3 Edition (Announced)
+* Geometry Dash: PS3 Edition (Announced)
 * Something more, that I cannot announce yet.
 
 # Legal notices
-
 AcidPS3 service was, is and always will be free no matter what. We will NEVER get any financial profit from this.
 
 <a href="https://github.com/AcidGunner/AcidPS3Data">
