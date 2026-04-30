@@ -30,6 +30,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [Touhou 06](https://acidps3.22web.org/games/ps3/th06)
 * [Baldi's Basics](https://acidps3.22web.org/games/ps3/baldi)
 * [Hong Kong 97](https://acidps3.22web.org/games/ps3/hk97)
+* [Ultimate Cross Adventure](https://acidps3.22web.org/games/ps3/uca)
 * [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidGunner/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidGunner/FNFPS3Engine.gmx)
 
@@ -47,9 +48,8 @@ Also I do NOT own any game I make a port/edition of. Every original game is by t
 # Coming soon
 * Raise the Koishi: Re-Coded (Announced)
 * Five Nights at Freddy's: PS3 Edition
-* Ultimate Cross Adventure (Announced)
 * Orange Roulette: PS3 Edition
-* ProgressBar 95: PS3 Edition (Announced)
+* PB95-PS3 [(Source Code)](https://github.com/AcidGunner/PB95-PS3)
 * Geometry Dash: PS3 Edition (Announced)
 * Something more, that I cannot announce yet.
 
