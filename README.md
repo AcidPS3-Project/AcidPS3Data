@@ -34,6 +34,12 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 * [Minesweeper Plus](https://acidps3.22web.org/games/ps3/msplus) [(Source Code)](https://github.com/AcidGunner/MinesweeperPlusPS3)
 * [Friday Night Funkin: GMCell Engine](https://acidps3.22web.org/games/ps3/fnfgmcell) [(Source Code)](https://github.com/AcidGunner/FNFPS3Engine.gmx)
 
+## PS4
+* [Ultimate Cross Adventure](https://acidps3.22web.org/games/ps4/uca)
+
+## PSVita
+* [Ultimate Cross Adventure](https://acidps3.22web.org/games/psv/uca)
+
 # Games by community
 
 ## PS3
