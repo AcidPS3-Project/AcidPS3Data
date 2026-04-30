@@ -43,7 +43,7 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 # Games by community
 
 ## PS3
-* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Source Code)](https://github.com/DropSonic0/TeamForever-v4-1.3)
+* Sonic 1/2: [Forever](https://acidps3.22web.org/games/ps3/sonic1)/[Absolute](https://acidps3.22web.org/games/ps3/sonic2) [(Decompilation Project)](https://github.com/DropSonic0/TeamForever-v4-1.3)
 * [Sonic Mania](https://acidps3.22web.org/games/ps3/sonicmania) [(Decompilation Project)](https://github.com/DropSonic0/Sonic-Mania-Decompilation)
 
 # Licensing
