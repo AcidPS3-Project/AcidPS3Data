@@ -49,18 +49,19 @@ But first, please refer to the [blacklist](BLACKLIST.md) to stop any inconvenien
 # Licensing
 Fan-made Sonic ports for PS3 are done by DropSonic0, here is the [permission](https://github.com/user-attachments/assets/6d67ee86-caf7-4efb-8cd6-7da011b90a74) to distribute on this service.\
 For Sonic Mania you really need to have the original game, as it is a decompilation of Sonic Mania. Tutorial may be found [here](https://github.com/DropSonic0/Sonic-Mania-Decompilation#support-the-official-release-of-sonic-mania-plus).\
-Also I do NOT own any game I make a port/edition of. Every original game is by their respective owners.
+Also I do NOT own any game I make an edition of. Every original game is by their respective owners.
 
 # Coming soon
 * Raise the Koishi: Re-Coded (Announced)
 * Five Nights at Freddy's: PS3 Edition
-* Orange Roulette: PS3 Edition
+* Orange Roulette: PS3 Edition (Announced)
 * PB95-PS3 [(Source Code)](https://github.com/AcidGunner/PB95-PS3)
 * Geometry Dash: PS3 Edition (Announced)
 * Something more, that I cannot announce yet.
 
 # Legal notices
-AcidPS3 service was, is and always will be free no matter what. We will NEVER get any financial profit from this.
+AcidPS3 service was, is and always will be free no matter what. We will NEVER get any financial profit from this.\
+If you want to set your game as priced, 100% of profit goes to you :)
 
 <a href="https://github.com/AcidGunner/AcidPS3Data">
 	<img src="https://img.shields.io/badge/Powered%20By-AcidPS3%20Store-blue?logo=playstation3" />
